@@ -31,7 +31,11 @@ This repository contains the files for the Supermarket Sales Data Analysis Dashb
 
 ## Demo
 
-Explore the interactive dashboard [here](link_to_dashboard).
+Explore the interactive dashboard .
+
+https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/assets/134350505/dbfd890b-b1a7-46d8-afd0-ef57e2387134
+
+
 
 ## Getting Started
 
