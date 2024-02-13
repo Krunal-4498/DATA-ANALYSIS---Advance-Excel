@@ -41,19 +41,17 @@ https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/assets/134
 
 To view the project or use the Excel dashboard:
 
-1. Download the Excel file from the [link_to_excel_file](link_to_excel_file).
+1. Download the Excel file from here [Sales-Dashboard-practice-file.xlsx](https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/files/14270429/Sales-Dashboard-practice-file.xlsx)
+
 
 2. Open the Excel file in Microsoft Excel.
 
 3. Explore the dashboard by interacting with the provided slicers and charts.
 
-## Contributing
-
-This project is not open to code contributions, but feedback is always welcome. Feel free to [open an issue](link_to_issues) for discussions and suggestions.
 
 ## Acknowledgments
 
-- Special thanks to Lean Excel Solutions for their invaluable support throughout this project.
+- Special thanks to **Lean Excel Solutions** for their invaluable support throughout this project.
 
 ## Feedback
 
