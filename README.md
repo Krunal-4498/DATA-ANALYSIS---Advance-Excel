@@ -2,7 +2,8 @@
 
 # Supermarket Sales Data Analysis Dashboard 📊💼
 
-![Supermarket Sales Dashboard](link_to_dashboard_image.png)
+![SM Sales Data Analysis Dashboard](https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/assets/134350505/965b5473-46e1-48d7-80a0-466b23be8940)
+
 
 ## Overview
 
