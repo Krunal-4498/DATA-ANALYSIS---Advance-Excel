@@ -40,7 +40,11 @@ The following Excel functions and features were utilized in this project:
 
 ## Demo
 
-Explore the interactive dashboard [Sales-Dashboard.xlsx](https://github.com/Krunal-4498/DATA-ANALYSIS---Advance-Excel/files/14275717/Sales-Dashboard.xlsx)
+Explore the interactive dashboard 
+
+https://github.com/Krunal-4498/DATA-ANALYSIS---Advance-Excel/assets/134350505/a55a964b-d993-442c-9ce5-37d6b177fbea
+
+
 
 
 ## Getting Started
