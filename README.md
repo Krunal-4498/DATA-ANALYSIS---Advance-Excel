@@ -1,8 +1,6 @@
-
-
 # Supermarket Sales Data Analysis Dashboard 📊💼
 
-![SM Sales Data Analysis Dashboard](https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/assets/134350505/965b5473-46e1-48d7-80a0-466b23be8940)
+![SM Sales Data Analysis Dashboard](https://github.com/Krunal-4498/DATA-ANALYSIS---Advance-Excel/assets/134350505/e56af3c1-3076-43d3-bfc7-aa9bfa239aab)
 
 
 ## Overview
@@ -29,19 +27,27 @@ This repository contains the files for the Supermarket Sales Data Analysis Dashb
   - Sales Type Slicer (Direct sale, Online sale, Wholesale)
   - Payment Mode Slicer (Cash, Online)
 
+## Used Excel Functions and Features
+
+The following Excel functions and features were utilized in this project:
+
+1. `VLOOKUP`: Used for looking up and retrieving details for various components of the dashboard.
+2. `MULTIPLICATION` and `SUBTRACTION`: Employed for calculating total profit and profit percentage.
+3. `DAY`, `MONTH`, and `YEAR`: Extracted day, month, and year information for date-wise analysis.
+4. `OFFSET`: Dynamically selected ranges for creating dynamic filled area charts.
+5. `SCROLL BAR`: Implemented for interactive exploration of day-wise revenue.
+6. `TICK BOX`: Used for incorporating interactive checkboxes for user-friendly filtering.
+
 ## Demo
 
-Explore the interactive dashboard .
-
-https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/assets/134350505/dbfd890b-b1a7-46d8-afd0-ef57e2387134
-
+Explore the interactive dashboard [Sales-Dashboard.xlsx](https://github.com/Krunal-4498/DATA-ANALYSIS---Advance-Excel/files/14275717/Sales-Dashboard.xlsx)
 
 
 ## Getting Started
 
 To view the project or use the Excel dashboard:
 
-1. Download the Excel file from here [Sales-Dashboard-practice-file.xlsx](https://github.com/Krunal-4498/Supermarket_Sales_Analysis---Adv.Excel/files/14270429/Sales-Dashboard-practice-file.xlsx)
+1. Download the Excel file from the [Sales-Dashboard-practice-file.xlsx](https://github.com/Krunal-4498/DATA-ANALYSIS---Advance-Excel/files/14275720/Sales-Dashboard-practice-file.xlsx)
 
 
 2. Open the Excel file in Microsoft Excel.
@@ -56,4 +62,5 @@ To view the project or use the Excel dashboard:
 ## Feedback
 
 Your feedback and insights are highly appreciated! Feel free to [open an issue](link_to_issues) for discussions and collaboration.
+
 
